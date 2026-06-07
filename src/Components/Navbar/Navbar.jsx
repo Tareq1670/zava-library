@@ -50,7 +50,7 @@ const Navbar = ({ adminLogin, adminButton, card, cardShow }) => {
                                     href="#home"
                                     className="hover:text-green-400 transition-colors"
                                 >
-                                    Home
+                                    Homa
                                 </a>
                             </li>
                             <li>
