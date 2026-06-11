@@ -123,7 +123,7 @@ const Navbar = ({ adminLogin, adminButton, card, cardShow }) => {
                                     href="contact"
                                     className="hover:text-green-400 transition-colors text-lg"
                                 >
-                                    Contact
+                                    Contact us
                                 </a>
                             </li>
                             {adminLogin && (
